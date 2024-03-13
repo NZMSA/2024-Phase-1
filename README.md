@@ -18,7 +18,7 @@ Contents:
 ## Getting Started
 
 To get started with Phase 1:
-1. [Sign up for the 2024 MSA programme](https://forms.office.com/r/K6K6VqpFyu)
+1. [Sign up for the 2024 MSA programme](https://forms.office.com/r/YSPV9Rc04R)
 - Note: Please sign up for the programme using the same email as the Microsoft account you want to use for the programme (if you already have one)
 2. [Create a Microsoft account](https://account.microsoft.com/account/Account) if you don't already have one 
 - Note: Please create an account using the same email that you signed up for the programme with
@@ -148,7 +148,7 @@ To complete Phase 1 and submit evidence of your completion:
 - [Software Development collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/4m8nhoyrwj1555)
 - [Data Science collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/n2kyanp2128q50)
 - Note: To take a full-page screenshot, you can use [this Chrome extension](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) or if you are using Edge or Firefox, you can press Ctrl+Shift+S and then select "Capture/Save full page".
-4. Submit this form by 11:59pm, Saturday 24 June: [MSA 2023 Phase 1 Submission](https://forms.office.com/r/zuqtugck3k) *TODO
+4. Submit this form by 11:59pm, Saturday 24 June: [MSA 2023 Phase 1 Submission](https://forms.office.com/r/K6K6VqpFyu)
 
 ## Key Tools
 
