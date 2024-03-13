@@ -18,7 +18,7 @@ Contents:
 ## Getting Started
 
 To get started with Phase 1:
-1. [Sign up for the 2024 MSA programme](https://forms.office.com/r/beXXMJTAac) (*TODO)
+1. [Sign up for the 2024 MSA programme](https://forms.office.com/r/K6K6VqpFyu)
 - Note: Please sign up for the programme using the same email as the Microsoft account you want to use for the programme (if you already have one)
 2. [Create a Microsoft account](https://account.microsoft.com/account/Account) if you don't already have one 
 - Note: Please create an account using the same email that you signed up for the programme with
