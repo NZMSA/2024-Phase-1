@@ -9,11 +9,11 @@ The expected workload for Phase 1 of each stream is 3-4 hours per week. As such,
 Phase 2 will build upon the knowledge for Phase 1 of each stream, and placements will be either in Software Development or Data Science. As such, we recommend that you follow one stream only in order to manage your time effectively and build your knowledge and skills within one stream as much as you can in order to stand out to employers.
 
 Contents:
-- [Getting Started](https://github.com/NZMSA/2023-Phase-1#getting-started) (*TODO)
-- [Schedule](https://github.com/NZMSA/2023-Phase-1#schedule) (*TODO)
-- [Submission](https://github.com/NZMSA/2023-Phase-1#submission) (*TODO)
-- [Key Tools](https://github.com/NZMSA/2023-Phase-1#key-tools) (*TODO)
-- [Support](https://github.com/NZMSA/2023-Phase-1#support) (*TODO)
+- [Getting Started](https://github.com/NZMSA/2024-Phase-1#getting-started)
+- [Schedule](https://github.com/NZMSA/2024-Phase-1#schedule)
+- [Submission](https://github.com/NZMSA/2024-Phase-1#submission)
+- [Key Tools](https://github.com/NZMSA/2024-Phase-1#key-tools)
+- [Support](https://github.com/NZMSA/2024-Phase-1#support)
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 - [Software Development collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/4m8nhoyrwj1555)
 - [Data Science collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/n2kyanp2128q50)
 
-### Week 1
+## Week 1
 
 #### Software Development
 
@@ -49,7 +49,7 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 1. [Introduction to GitHub in Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-visual-studio-code)
 2. [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python) (this is a path consisting of several modules - please complete all modules listed in the path)
 
-### Week 2
+## Week 2
 
 #### Software Development
 
@@ -70,7 +70,7 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 4. [Introduction to machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning)
 5. [Introduction to rocket launches](https://learn.microsoft.com/en-us/training/modules/introduction-rocket-launch-nasa)
 
-### Week 3
+## Week 3
 
 #### Software Development
 
@@ -87,7 +87,7 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 3. [Build classical machine learning models with supervised learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-classical-machine-learning)
 4. [Train and understand regression models in machine learning](https://learn.microsoft.com/en-us/training/modules/understand-regression-machine-learning)
 
-### Week 4
+## Week 4
 
 #### Software Development
 
@@ -105,7 +105,7 @@ Note: This week contains fewer modules than others, so we recommend you use this
 4. [Train and evaluate regression models](https://learn.microsoft.com/en-us/training/modules/train-evaluate-regression-models)
 5. [Select and customize architectures and hyperparameters using random forest](https://learn.microsoft.com/en-us/training/modules/machine-learning-architectures-and-hyperparameters)
 
-### Week 5
+## Week 5
 
 #### Software Development
 
@@ -123,7 +123,7 @@ Note: This week contains fewer modules than others, so we recommend you use this
 4. [Explore Azure Machine Learning workspace resources and assets](https://learn.microsoft.com/en-us/training/modules/explore-azure-machine-learning-workspace-resources-assets)
 5. [Train a machine learning model with Azure Machine Learning](https://learn.microsoft.com/en-us/training/modules/train-local-model-with-azure-mls)
 
-### Week 6
+## Week 6
 
 #### Software Development
 
