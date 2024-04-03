@@ -1,7 +1,7 @@
 # 2024 Phase 1
 
 Welcome to Phase 1 of the 2024 MSA programme! This year, the programme is split into two streams (Software Development and Data Science), and Phase 1 consists of Microsoft Learn modules for each stream. For more information, please visit the following links:
-- [2024 Programme Launch](*TODO), a YouTube video that provides an overview of this year's programme
+- [2024 Programme Launch](https://www.youtube.com/watch?v=nUO7uQpackU), a YouTube video that provides an overview of this year's programme
 - [Frequently asked questions and answers](https://nzmsa.vercel.app/Faq) about the programme
 
 The expected workload for Phase 1 of each stream is 3-4 hours per week. As such, we recommend that you use the schedule below to spread out your workload and not try to complete everything in one week.
