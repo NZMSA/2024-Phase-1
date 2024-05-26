@@ -30,8 +30,8 @@ To get started with Phase 1:
 The schedule is split into six weeks, and each week is split into the two streams (Software Development and Data Science).
 
 All the Microsoft Learn modules listed below can be found in these Microsoft Learn collections for easy access and completion tracking:
-- [Software Development collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/4m8nhoyrwj1555)
-- [Data Science collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/n2kyanp2128q50)
+- [Software Development collection](https://learn.microsoft.com/en-us/collections/4m8nhoyrwj1555?wt.mc_id=studentamb_319033)
+- [Data Science collection](https://learn.microsoft.com/collections/n2kyanp2128q50?wt.mc_id=studentamb_319033)
 
 ## Week 1
 
@@ -109,35 +109,35 @@ Note: This week contains fewer modules than others, so we recommend you use this
 
 #### Software Development
 
-1. [Introduction to Transact-SQL](https://learn.microsoft.com/en-us/training/modules/introduction-to-transact-sql)
-2. [Sort and filter results in T-SQL](https://learn.microsoft.com/en-us/training/modules/sort-filter-queries)
-3. [Combine multiple tables with JOINs in T-SQL](https://learn.microsoft.com/en-us/training/modules/query-multiple-tables-with-joins)
-4. [Modify data with T-SQL](https://learn.microsoft.com/en-us/training/modules/modify-data-with-transact-sql)
-5. [Persist and retrieve relational data by using Entity Framework Core](https://learn.microsoft.com/en-us/training/modules/persist-data-ef-core/)
+1. [Introduction to Transact-SQL](https://learn.microsoft.com/training/modules/introduction-to-transact-sql?wt.mc_id=studentamb_319033)
+2. [Sort and filter results in T-SQL](https://learn.microsoft.com/training/modules/sort-filter-queries?wt.mc_id=studentamb_319033)
+3. [Combine multiple tables with JOINs in T-SQL](https://learn.microsoft.com/training/modules/query-multiple-tables-with-joins?wt.mc_id=studentamb_319033)
+4. [Modify data with T-SQL](https://learn.microsoft.com/training/modules/modify-data-with-transact-sql?wt.mc_id=studentamb_319033)
+5. [Persist and retrieve relational data by using Entity Framework Core](https://learn.microsoft.com/training/modules/persist-data-ef-core/?wt.mc_id=studentamb_319033)
 
 #### Data Science
 
-1. [Confusion matrix and data imbalances](https://learn.microsoft.com/en-us/training/modules/machine-learning-confusion-matrix)
-2. [Measure and optimize model performance with ROC and AUC](https://learn.microsoft.com/en-us/training/modules/optimize-model-performance-roc-auc)
-3. [Introduction to Azure Machine Learning](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-ml)
-4. [Explore Azure Machine Learning workspace resources and assets](https://learn.microsoft.com/en-us/training/modules/explore-azure-machine-learning-workspace-resources-assets)
-5. [Train a machine learning model with Azure Machine Learning](https://learn.microsoft.com/en-us/training/modules/train-local-model-with-azure-mls)
+1. [Confusion matrix and data imbalances](https://learn.microsoft.com/training/modules/machine-learning-confusion-matrix?wt.mc_id=studentamb_319033)
+2. [Measure and optimize model performance with ROC and AUC](https://learn.microsoft.com/training/modules/optimize-model-performance-roc-auc?wt.mc_id=studentamb_319033)
+3. [Introduction to Azure Machine Learning](https://learn.microsoft.com/training/modules/intro-to-azure-ml?wt.mc_id=studentamb_319033)
+4. [Explore Azure Machine Learning workspace resources and assets](https://learn.microsoft.com/training/modules/explore-azure-machine-learning-workspace-resources-assets?wt.mc_id=studentamb_319033)
+5. [Train a machine learning model with Azure Machine Learning](https://learn.microsoft.com/training/modules/train-local-model-with-azure-mls?wt.mc_id=studentamb_319033)
 
 ## Week 6
 
 #### Software Development
 
-1. [Build a web API with minimal API, ASP.NET Core, and .NET](https://learn.microsoft.com/en-us/training/modules/build-web-api-minimal-api)
-2. [Build a containerized web application with Docker](https://learn.microsoft.com/en-us/training/modules/intro-to-containers)
-3. [Build continuous integration (CI) workflows by using GitHub Actions](https://learn.microsoft.com/en-us/training/modules/github-actions-ci)
-4. [Introduction to software testing concepts](https://learn.microsoft.com/en-us/training/modules/visual-studio-test-concepts)
-5. [Use a database with minimal API, Entity Framework Core, and ASP.NET Core](https://learn.microsoft.com/en-us/training/modules/build-web-api-minimal-database/)
+1. [Build a web API with minimal API, ASP.NET Core, and .NET](https://learn.microsoft.com/training/modules/build-web-api-minimal-api?wt.mc_id=studentamb_319033)
+2. [Build a containerized web application with Docker](https://learn.microsoft.com/training/modules/intro-to-containers?wt.mc_id=studentamb_319033)
+3. [Build continuous integration (CI) workflows by using GitHub Actions](https://learn.microsoft.com/training/modules/github-actions-ci?wt.mc_id=studentamb_319033)
+4. [Introduction to software testing concepts](https://learn.microsoft.com/training/modules/visual-studio-test-concepts?wt.mc_id=studentamb_319033)
+5. [Use a database with minimal API, Entity Framework Core, and ASP.NET Core](https://learn.microsoft.com/training/modules/build-web-api-minimal-database/?wt.mc_id=studentamb_319033)
 
 #### Data Science
 
-1. [Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi)
-2. [Get data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data)
-3. [Clean, transform, and load data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi)
+1. [Get started building with Power BI](https://learn.microsoft.com/training/modules/get-started-with-power-bi?wt.mc_id=studentamb_319033)
+2. [Get data in Power BI](https://learn.microsoft.com/training/modules/get-data?wt.mc_id=studentamb_319033)
+3. [Clean, transform, and load data in Power BI](https://learn.microsoft.com/training/modules/clean-data-power-bi?wt.mc_id=studentamb_319033)
 
 ## Submission
 
