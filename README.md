@@ -37,73 +37,73 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 
 #### Software Development
 
-1. [Introduction to GitHub](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github)
-2. [Write your first C# code](https://learn.microsoft.com/en-us/training/modules/csharp-write-first)
-3. [Introduction to .NET](https://learn.microsoft.com/en-us/training/modules/dotnet-introduction)
-4. [Create a new .NET project and work with dependencies](https://learn.microsoft.com/en-us/training/modules/dotnet-dependencies)
-5. [Interactively debug .NET apps with the Visual Studio Code debugger](https://learn.microsoft.com/en-us/training/modules/dotnet-debug)
-6. [Create a web API with ASP.NET Core controllers](https://learn.microsoft.com/en-us/training/modules/build-web-api-aspnet-core)
+1. [Introduction to GitHub](https://docs.microsoft.com/learn/modules/introduction-to-github?wt.mc_id=studentamb_319033)
+2. [Write your first C# code](https://learn.microsoft.com/training/modules/csharp-write-first?wt.mc_id=studentamb_319033)
+3. [Introduction to .NET](https://learn.microsoft.com/training/modules/dotnet-introduction?wt.mc_id=studentamb_319033)
+4. [Create a new .NET project and work with dependencies](https://learn.microsoft.com/training/modules/dotnet-dependencies?wt.mc_id=studentamb_319033)
+5. [Interactively debug .NET apps with the Visual Studio Code debugger](https://learn.microsoft.com/training/modules/dotnet-debug?wt.mc_id=studentamb_319033)
+6. [Create a web API with ASP.NET Core controllers](https://learn.microsoft.com/training/modules/build-web-api-aspnet-core?wt.mc_id=studentamb_319033)
 
 #### Data Science
 
-1. [Introduction to GitHub in Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-visual-studio-code)
-2. [Python for beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python) (this is a path consisting of several modules - please complete all modules listed in the path)
+1. [Introduction to GitHub in Visual Studio Code](https://learn.microsoft.com/training/modules/introduction-to-github-visual-studio-code?wt.mc_id=studentamb_319033)
+2. [Python for beginners](https://learn.microsoft.com/training/paths/beginner-python?wt.mc_id=studentamb_319033) (this is a path consisting of several modules - please complete all modules listed in the path)
 
 ## Week 2
 
 #### Software Development
 
-1. [Get started with web development using Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/get-started-with-web-development)
-2. [Learn the basics of web accessibility](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility)
-3. [Introduction to Node.js](https://learn.microsoft.com/en-us/training/modules/intro-to-nodejs)
-4. [Create a new Node.js project and work with dependencies](https://learn.microsoft.com/en-us/training/modules/create-nodejs-project-dependencies)
-5. [Get started with React](https://learn.microsoft.com/en-us/training/modules/react-get-started)
-6. [Working with data and properties in React components](https://learn.microsoft.com/en-us/training/modules/react-work-with-components-and-data)
-7. [React state and events](https://learn.microsoft.com/en-us/training/modules/react-states-events)
+1. [Get started with web development using Visual Studio Code](https://learn.microsoft.com/training/modules/get-started-with-web-development?wt.mc_id=studentamb_319033)
+2. [Learn the basics of web accessibility](https://learn.microsoft.com/training/modules/web-development-101-accessibility?wt.mc_id=studentamb_319033)
+3. [Introduction to Node.js](https://learn.microsoft.com/training/modules/intro-to-nodejs?wt.mc_id=studentamb_319033)
+4. [Create a new Node.js project and work with dependencies](https://learn.microsoft.com/training/modules/create-nodejs-project-dependencies?wt.mc_id=studentamb_319033)
+5. [Get started with React](https://learn.microsoft.com/training/modules/react-get-started?wt.mc_id=studentamb_319033)
+6. [Working with data and properties in React components](https://learn.microsoft.com/training/modules/react-work-with-components-and-data?wt.mc_id=studentamb_319033)
+7. [React state and events](https://learn.microsoft.com/training/modules/react-states-events?wt.mc_id=studentamb_319033)
 
 #### Data Science
 
-1. [Explore and analyze data with Python](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python)
-2. [Data collection and manipulation](https://learn.microsoft.com/en-us/training/modules/collect-manipulate-data-python-nasa)
+1. [Explore and analyze data with Python](https://learn.microsoft.com/training/modules/explore-analyze-data-with-python?wt.mc_id=studentamb_319033)
+2. [Data collection and manipulation](https://learn.microsoft.com/training/modules/collect-manipulate-data-python-nasa?wt.mc_id=studentamb_319033)
 - Note: The Excel file link in the module above is broken (as of 16/5/23). Please use [this OneDrive link](https://1drv.ms/x/s!AhUTdgNym7JMniQMzHt9Bu-1_McY?e=Ez8arx) to access the dataset instead.
-3. [Get started with AI on Azure](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals)
-4. [Introduction to machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning)
-5. [Introduction to rocket launches](https://learn.microsoft.com/en-us/training/modules/introduction-rocket-launch-nasa)
+3. [Get started with AI on Azure](https://learn.microsoft.com/training/modules/get-started-ai-fundamentals?wt.mc_id=studentamb_319033)
+4. [Introduction to machine learning](https://learn.microsoft.com/training/modules/introduction-to-machine-learning?wt.mc_id=studentamb_319033)
+5. [Introduction to rocket launches](https://learn.microsoft.com/training/modules/introduction-rocket-launch-nasa?wt.mc_id=studentamb_319033)
 
 ## Week 3
 
 #### Software Development
 
-1. [Get started with TypeScript](https://learn.microsoft.com/en-us/training/modules/typescript-get-started)
-2. [Declare variable types in TypeScript](https://learn.microsoft.com/en-us/training/modules/typescript-declare-variable-types)
-3. [Implement interfaces in TypeScript](https://learn.microsoft.com/en-us/training/modules/typescript-implement-interfaces)
-4. [Develop typed functions by using TypeScript](https://learn.microsoft.com/en-us/training/modules/typescript-develop-typed-functions)
-5. [Declare and instantiate classes in TypeScript](https://learn.microsoft.com/en-us/training/modules/typescript-declare-instantiate-classes)
+1. [Get started with TypeScript](https://learn.microsoft.com/training/modules/typescript-get-started?wt.mc_id=studentamb_319033)
+2. [Declare variable types in TypeScript](https://learn.microsoft.com/training/modules/typescript-declare-variable-types?wt.mc_id=studentamb_319033)
+3. [Implement interfaces in TypeScript](https://learn.microsoft.com/training/modules/typescript-implement-interfaces?wt.mc_id=studentamb_319033)
+4. [Develop typed functions by using TypeScript](https://learn.microsoft.com/training/modules/typescript-develop-typed-functions?wt.mc_id=studentamb_319033)
+5. [Declare and instantiate classes in TypeScript](https://learn.microsoft.com/training/modules/typescript-declare-instantiate-classes?wt.mc_id=studentamb_319033)
 
 #### Data Science
 
-1. [Introduction to data for machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-data-for-machine-learning)
-2. [Create and understand classification models in machine learning](https://learn.microsoft.com/en-us/training/modules/understand-classification-machine-learning)
-3. [Build classical machine learning models with supervised learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-classical-machine-learning)
-4. [Train and understand regression models in machine learning](https://learn.microsoft.com/en-us/training/modules/understand-regression-machine-learning)
+1. [Introduction to data for machine learning](https://learn.microsoft.com/training/modules/introduction-to-data-for-machine-learning?wt.mc_id=studentamb_319033)
+2. [Create and understand classification models in machine learning](https://learn.microsoft.com/training/modules/understand-classification-machine-learning?wt.mc_id=studentamb_319033)
+3. [Build classical machine learning models with supervised learning](https://learn.microsoft.com/training/modules/introduction-to-classical-machine-learning?wt.mc_id=studentamb_319033)
+4. [Train and understand regression models in machine learning](https://learn.microsoft.com/training/modules/understand-regression-machine-learning?wt.mc_id=studentamb_319033)
 
 ## Week 4
 
 #### Software Development
 
-1. [Define generics in TypeScript](https://learn.microsoft.com/en-us/training/modules/typescript-generics)
-2. [Access external libraries from TypeScript](https://learn.microsoft.com/en-us/training/modules/typescript-work-external-libraries)
-3. [Organize code using TypeScript namespaces](https://learn.microsoft.com/en-us/training/modules/typescript-namespaces-organize-code)
+1. [Define generics in TypeScript](https://learn.microsoft.com/training/modules/typescript-generics?wt.mc_id=studentamb_319033)
+2. [Access external libraries from TypeScript](https://learn.microsoft.com/training/modules/typescript-work-external-libraries?wt.mc_id=studentamb_319033)
+3. [Organize code using TypeScript namespaces](https://learn.microsoft.com/training/modules/typescript-namespaces-organize-code?wt.mc_id=studentamb_319033)
 
 Note: This week contains fewer modules than others, so we recommend you use this opportunity to practice the Software Development skills you've learned so far using other resources you find.
 
 #### Data Science
 
-1. [Build a machine learning model](https://learn.microsoft.com/en-us/training/modules/machine-learning-model-nasa)
-2. [Refine and test machine learning models](https://learn.microsoft.com/en-us/training/modules/test-machine-learning-models)
-3. [Train and evaluate classification models](https://learn.microsoft.com/en-us/training/modules/train-evaluate-classification-models)
-4. [Train and evaluate regression models](https://learn.microsoft.com/en-us/training/modules/train-evaluate-regression-models)
-5. [Select and customize architectures and hyperparameters using random forest](https://learn.microsoft.com/en-us/training/modules/machine-learning-architectures-and-hyperparameters)
+1. [Build a machine learning model](https://learn.microsoft.com/training/modules/machine-learning-model-nasa?wt.mc_id=studentamb_319033)
+2. [Refine and test machine learning models](https://learn.microsoft.com/training/modules/test-machine-learning-models?wt.mc_id=studentamb_319033)
+3. [Train and evaluate classification models](https://learn.microsoft.com/training/modules/train-evaluate-classification-models?wt.mc_id=studentamb_319033)
+4. [Train and evaluate regression models](https://learn.microsoft.com/training/modules/train-evaluate-regression-models?wt.mc_id=studentamb_319033)
+5. [Select and customize architectures and hyperparameters using random forest](https://learn.microsoft.com/training/modules/machine-learning-architectures-and-hyperparameters?wt.mc_id=studentamb_319033)
 
 ## Week 5
 
